@@ -1,0 +1,1 @@
+A simple Python implementation of a neural network to recognize handwritten digits from the MNIST dataset using stochastic gradient descent. Optimized code from Micheal Nielsen's "Neural Networks and Deep Learning" using a fully matrix-based approach to backpropagation, solution to one of the exercises of the book.
